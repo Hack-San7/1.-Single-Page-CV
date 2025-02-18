@@ -46,6 +46,8 @@ Back-End: Java, Python</p>
 <p>LinkedIn: <a href=https://www.linkedin.com/in/evankim-cs/>https://www.linkedin.com/in/evankim-cs/</a><br>
 GitHub: <a href=https://github.com/Hack-San7>https://github.com/Hack-San7</a></p>
 
-<p>https://github.com/Hack-San7/EvanKim.dev/edit/main/README.md</p>
+
+
+<p>https://roadmap.sh/projects/single-page-cv</p>
 </body>
 </html>
