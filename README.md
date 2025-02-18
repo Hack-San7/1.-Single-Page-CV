@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <header style="border-top: 3px solid black; padding-top: 1px;">
-<title>Single-Page CV project</title>
+
 </header>
 <body style="font-family: Arial, sans-serif;">
 
